@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829580014609",
+    "project_id": "online-shop-48e67",
+    "storage_bucket": "online-shop-48e67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829580014609:android:190f9075952351d128adb0",
+        "android_client_info": {
+          "package_name": "com.neion.online_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbArF_X3fOZ0cEui3O6BhwXcD0i0uTyqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
